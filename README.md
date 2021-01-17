@@ -1,5 +1,5 @@
 # Introduction
-This is my .vimrc configuration. I recently started devoting time to familiarise myself with it as it came to my understanding that investing a few days or weeks learning vim will save me a huge amount of time later on.
+This is my .vimrc configuration. 
 
 The configuration is very simple, but it does make vim extremely more useful than how it is out of the box. See below for an explanation of what does each line do.
 
