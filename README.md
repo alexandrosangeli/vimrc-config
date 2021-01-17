@@ -3,9 +3,6 @@ This is my .vimrc configuration. I recently started devoting time to familiarise
 
 The configuration is nothing fancy but it does make vim extremely more useful than how it is out of the box. See below for an explanation of what does each line do.
 
-### Note
-The configuration is inspired from ThePrimeagen's.
-
 # Walkthrough
 - `syntax on` highlights syntax (works for most languages).
 - `set noerrorbells` disables sound effects (e.g. when you you press `backspace` in an empty file).
@@ -24,3 +21,7 @@ The configuration is inspired from ThePrimeagen's.
 - `set clipboard=unamedplus` it does copy/pasting to/from the system clipbaord.
 - `set colorcolumn=80` indicator is set at the position of the 80th character (see below for personalisation).
 - `highlight ColorColumn ctermbg=0 guibg=lightgrey`
+
+### Note
+- The configuration is inspired from ThePrimeagen's.
+- In order for vim to support copying and pasting to/from the system clipbaord, your vim version needs to support this functionality. If it doesn't, click [here](https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim/65742440#65742440).
