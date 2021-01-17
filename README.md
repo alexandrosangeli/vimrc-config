@@ -24,4 +24,4 @@ The configuration is nothing fancy but it does make vim extremely more useful th
 
 ### Note
 - The configuration is inspired from ThePrimeagen's.
-- In order for vim to support copying and pasting to/from the system clipbaord, your vim version needs to support this functionality. If it doesn't, click [here](https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim/65742440#65742440).
+- In order for vim to support copying and pasting to/from the system clipbaord, your vim version needs to support this functionality. To check, enter `$ vim --version` and check for `+clipbaord`. If there's a `-` instead of `+`, then it doesn't. [solution](https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim/65742440#65742440).
