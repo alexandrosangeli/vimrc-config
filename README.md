@@ -4,7 +4,7 @@ This is my .vimrc configuration. I recently started devoting time to familiarise
 The configuration is nothing fancy but it does make vim extremely more useful than how it is out of the box. See below for an explanation of what does each line do.
 
 ### Note
-The configuration is very similar to  ThePrimeagen's. 
+The configuration is inspired from ThePrimeagen's.
 
 # Walkthrough
 - `syntax on` highlights syntax (works for most languages).
