@@ -22,5 +22,5 @@ The configuration is inspired from ThePrimeagen's.
 - `set undofile` creates a file that preserves changes (preserves a history even after a file is closed).
 - `set incsearch` makes incremental search (searches as you type).
 - `set clipboard=unamedplus` it does copy/pasting to/from the system clipbaord.
-- `set colorcolumn=80` indicator is set at the position of the 80th character (see below for personalisation.
+- `set colorcolumn=80` indicator is set at the position of the 80th character (see below for personalisation).
 - `highlight ColorColumn ctermbg=0 guibg=lightgrey`
