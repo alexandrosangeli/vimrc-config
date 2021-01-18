@@ -1,7 +1,4 @@
-# Introduction
-This is my .vimrc configuration. 
-
-The configuration is very simple, but it does make vim extremely more useful than how it is out of the box. See below for an explanation of what does each line does.
+A simple yet extremely more useful vim configuration than how it comes out of the box.
 
 # Walkthrough
 - `syntax on` highlights syntax (works for most languages).
