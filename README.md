@@ -8,6 +8,7 @@ A simple yet extremely more useful vim configuration than how it comes out of th
 - `set expandtab` converts tabs to spaces.
 - `set smartindent` will (try to) automatically indent.
 - `set nu` adds **l**ine n**u**mbers.
+- `set relativenumber` the number of line changes to become relative to the line the cursor is on.
 - `set wrap` when the line goes off the screen, it goes to the next line (it does **not** create a new line though).
 - `set smartcase` makes case-sensitive searching when a capital letter is entered.
 - `set noswapfile` doesn't create swap files.
