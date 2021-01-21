@@ -1,5 +1,3 @@
-A simple yet extremely more useful vim configuration than how it comes out of the box.
-
 # Walkthrough
 - `syntax on` highlights syntax (works for most languages).
 - `set noerrorbells` disables sound effects (e.g. when you you press `backspace` in an empty file).
