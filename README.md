@@ -11,7 +11,7 @@
 - `set smartcase` makes case-sensitive searching when a capital letter is entered.
 - `set noswapfile` doesn't create swap files.
 - `set nobackup` doesn't allow backup.
-- `set undodir <directory>` sets in which directory an undo file will be created in (see next line).
+- `set undodir=<directory>` sets in which directory an undo file will be created in (see next line).
 - `set undofile` creates a file that preserves changes (preserves a history even after a file is closed).
 - `set incsearch` makes incremental search (searches as you type).
 - `set clipboard=unamedplus` it does copy/pasting to/from the system clipbaord.
