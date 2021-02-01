@@ -19,4 +19,4 @@
 - `highlight ColorColumn ctermbg=0 guibg=lightgrey`
 
 ### Note
-- In order for vim to support copying and pasting to/from the system clipboard, your vim version needs to support this functionality. To check, execute `$ vim --version` and check for `+clipbaord`. If there's a `-` instead of `+`, then it doesn't. ([solution](https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim/65742440#65742440))
+- In order for vim to support copying and pasting to/from the system clipboard, your vim version needs to support this functionality. To check, execute `$ vim --version` and check for `+clipbaord`. If there's a `-` instead of `+`, then it doesn't. ([solution](https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim))
